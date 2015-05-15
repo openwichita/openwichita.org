@@ -1,2 +1,2 @@
-content/data/ghost.db
+content/data/*.db
 node_modules
