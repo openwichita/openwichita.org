@@ -140,16 +140,19 @@ article.preview p.readmore {
 h1.blog-title,
 h2.blog-description {
   text-align: left;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h1.blog-title {
-  font-size: 50px;
-  line-height: 52px;
+  font-size: 160px;
+  line-height: 180px;
+  font-weight: bold;
   margin-top: 80px;
   margin-bottom: 5px;
   padding: 0;
 }
 h1.blog-subtitle {
-  font-size: 26px;
+  font-weight: bold;
+  font-size: 27px;
   line-height: 32px;
   margin-top: -8px;
   margin-bottom: 85px;
