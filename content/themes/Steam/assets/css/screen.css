@@ -151,6 +151,7 @@ h1.blog-title {
   padding: 0;
 }
 h1.blog-subtitle {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-size: 27px;
   line-height: 32px;
