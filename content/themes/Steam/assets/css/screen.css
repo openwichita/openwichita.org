@@ -143,6 +143,12 @@ h2.blog-description {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h1.blog-title {
+  background-image: url('../img/open-wichita-final.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 312px;
+  text-indent: -9999px;
   font-size: 160px;
   line-height: 180px;
   font-weight: bold;
@@ -151,7 +157,7 @@ h1.blog-title {
   padding: 0;
 }
 h1.blog-subtitle {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: none;
   font-weight: bold;
   font-size: 27px;
   line-height: 32px;
