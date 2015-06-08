@@ -2,18 +2,41 @@
 
 <main class="content" role="main">
 
-  <article class="{{post_class}}">
+  <h3>What is Open Wichita?</h3>
 
-    {{#foreach posts limit=1}}
-      {{#has tag="homepage"}}
+  <p>
+    An initiative to bring the benefits of open data and civic hacking to Wichita.
+  </p>
 
-        <section class="post-content">
-          {{content}}
-        </section>
-        
-      {{/has}}
-    {{/foreach}}
+  <p>
+    <strong>Civic hacking</strong> is a grassroots effort bringing citizens together to solve
+    problems within a community using technology.
+  </p>
 
+  <p>
+    <strong>Open data</strong> is the idea that all publicly collected data should be freely
+    available to use and redistribute by anyone interested in doing so.
+  </p>
+
+  <p>
+    When local governments and businesses start opening up their data sets for
+    others to use, amazing things can happen. Visit the <a href="/about">about
+    page</a> to learn more.
+  </p>
+
+  <h3>Recent Updates</h3>
+
+  {{#foreach posts}}
+
+  <article class="preview">
+    <header>
+      <h1 class="post-title"><a href="{{url}}">{{{title}}}</a></h1>
+      <div class="post-meta"><time datetime="{{date format='YYYY-MM-DD'}}">{{date format="DD MMMM YYYY"}}</time></div>
+    </header>
   </article>
+
+  {{/foreach}}
+
+  {{pagination}}
 
 </main>
