@@ -1,0 +1,19 @@
+{{!< default}}
+
+<main class="content" role="main">
+
+  <article class="{{post_class}}">
+
+    {{#foreach posts limit=1}}
+      {{#has tag="homepage"}}
+
+        <section class="post-content">
+          {{content}}
+        </section>
+        
+      {{/has}}
+    {{/foreach}}
+
+  </article>
+
+</main>
