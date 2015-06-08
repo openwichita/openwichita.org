@@ -32,8 +32,15 @@
 
   <article class="preview">
     <header>
-      <h2 class="post-title"><a href="{{url}}">{{{title}}}</a></h2>
-      <div class="post-meta"><time datetime="{{date format='YYYY-MM-DD'}}">{{date format="DD MMMM YYYY"}}</time></div>
+      <h2 class="post-title">
+        <a href="{{url}}">{{{title}}}</a>
+
+        <span class="post-meta">
+          <time datetime="{{date format='YYYY-MM-DD'}}">
+            &nbsp;--&nbsp;{{date format="DD MMMM YYYY"}}
+          </time>
+        </span>
+      </h2>
     </header>
   </article>
 
