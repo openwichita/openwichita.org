@@ -690,3 +690,6 @@ h1.posts-tagged {
   font-weight: 400;
   font-size: 16px;
 }
+article.preview {
+  margin-bottom: 20px;
+}
