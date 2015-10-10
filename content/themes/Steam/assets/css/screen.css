@@ -301,6 +301,7 @@ img.userimage {
   margin-right: 10px;
   float: left;
 }
+h2.post-title { font-size: 1.1em; }
 /* === Footer === */
 footer {
   background: rgba(0, 0, 0, 0.05);
