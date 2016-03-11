@@ -10,7 +10,7 @@ config = {
   // When running Ghost in the wild, use the production environment
   // Configure your URL and mail settings here
   production: {
-    url: 'http://openwichita.com',
+    url: 'https://openwichita.com',
     mail: {},
     database: {
       client: 'pg',
