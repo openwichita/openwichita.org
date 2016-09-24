@@ -9,7 +9,7 @@ includes_dir: ./_includes
 
 # Handling Reading
 safe:         false
-include:      []
+include:      ["assets"]
 exclude:      ["Gemfile", "Gemfile.lock"]
 keep_files:   [".git", ".svn"]
 encoding:     "utf-8"
