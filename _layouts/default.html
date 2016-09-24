@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>
+      {% if page.title %}{{ page.title }} - {{ site.data.global.title }}{% elsif post.title %}{{ post.title }} - {{ site.data.global.title }}{% else %}{{ site.data.global.title }} - {{ site.data.global.description }}{% endif %}
+    </title>
+    <meta name="description" content="{{ site.data.global.title }}">
+    <meta name="apple-mobile-web-app-title" content="{{ site.data.global.title }}">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    {% include favicon-appletouchicon.html %}
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/2.1.2/normalize.min.css">
+
+    <!-- Change this to change theme -->
+    {% include theme-red.html %}
+
+    <link rel="stylesheet" href="/assets/css/screen.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/styles/default.min.css">
+    <link rel="stylesheet" href="/assets/css/github.css">
+
+    {% if site.data.global.google_analytics %}
+      {% include google-analytics.html %}
+    {% endif %}
+</head>
+<body class="{{body_class}}">
+
+    <header id="site-head">
+        <h1 class="blog-title"><a href="/">{{ site.data.global.title }}</a></h1>
+        <h1 class="blog-subtitle">{{ site.data.global.description }}</h1>
+    </header>
+
+    {% include navigation.html %}
+
+    {{ content }}
+
+    <footer class="site-footer">
+        <div class="inner">
+            {% include footer-social.html %}
+            <section class="copyright">&copy; {{ site.date | date: "%Y" }} <a href="/">{{ site.data.global.title }}</a>. All rights reserved</section>
+            <section><a href="https://github.com/epistrephein/Steam">Steam theme</a> for <a class="icon-ghost" href="http://ghost.org/"><span class="hidden">Ghost</span></a> by Tommaso Barbato</section>
+        </div>
+    </footer>
+
+    <script src="/assets/js/index.js"></script>
+    <script src="/assets/js//bind-polyfill.min.js"></script>
+    <script src="/assets/js/smooth-scroll.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/highlight.min.js"></script>
+
+    <script>
+        smoothScroll.init({
+            speed: 800,
+            easing: 'easeInOutCubic',
+            updateURL: false,
+            offset: 125,
+        });
+    </script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+</body>
+</html>

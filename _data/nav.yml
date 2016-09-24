@@ -1,0 +1,6 @@
+main:
+  - { url: '/', label: 'Home' }
+  - { url: '/about', label: 'About' }
+  - { url: 'https://meetup.com/openwichita', label: 'Events' }
+  - { url: '/connect', label: 'Connect' }
+  - { url: '/updates', label: 'Updates' }

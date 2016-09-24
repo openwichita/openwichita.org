@@ -1,0 +1,14 @@
+{% if post.author %}
+<section class="author">
+    <h4>{{ post.author.name }}</h4>
+    <p class="bio">{{ post.author.bio }}</p>
+    <p class="meta">
+      {% if post.author.website %}
+        <i class="fa fa-fw fa-globe"></i> <a href="{{ post.author.website }}">{ {post.author.website }}</a><br>
+      {% endif %}
+      {% if post.author.location %}
+        <i class="fa fa-fw fa-map-marker"></i> {{ post.author.location }}
+      {% endif %}
+    </p>
+</section>
+{% endif %}
