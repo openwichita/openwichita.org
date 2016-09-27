@@ -4,6 +4,9 @@ layout: page
 
 # What is Open Wichita?
 
+**Our mission is to** foster a community of civic involvement through
+technology and education.
+
 We are a community of individuals who want to explore the ways which technology
 can be used to increase the amount and quality of civic involvement in the
 Wichita area.
