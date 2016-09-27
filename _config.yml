@@ -39,7 +39,7 @@ host:    127.0.0.1
 baseurl: "" # does not include hostname
 
 # Outputting
-permalink:     slug
+permalink:     /:slug
 paginate:       10
 paginate_path: /page:num
 timezone:      null
