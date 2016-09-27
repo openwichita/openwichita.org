@@ -7,9 +7,9 @@ layout: default
     <article>
 
         <header>
-          <h1 class="post-title">{{ post.title }}</h1>
+          <h1 class="post-title">{{ page.title }}</h1>
           <div class="post-meta">
-              <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%d %b %y' }}</time>
+              <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%d %b %y' }}</time>
           </div>
         </header>
 
@@ -20,22 +20,22 @@ layout: default
         <section class="share">
             <p class="backtotop"><a data-scroll href="#site-head"><i class="fa fa-lg fa-fw fa-angle-double-up"></i></a><a data-scroll class="backtotoptext" href="#site-head"> Back to top</a></p>
             <p class="info prompt">Share</p>
-            <a href="http://twitter.com/share?text={{ post.title }}&url={{ post.url }}" title="Share on Twitter"
+            <a href="http://twitter.com/share?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter"
                 onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                 <i class="fa fa-2x fa-fw fa-twitter-square"></i> <span class="hidden">Twitter</span>
             </a>
-            <a href="https://www.facebook.com/sharer/sharer.php?u={{ post.url }}" title="Share on Facebook"
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook"
                 onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
                 <i class="fa fa-2x fa-fw fa-facebook-square" style="margin-left: -8px"></i> <span class="hidden">Facebook</span>
             </a>
-            <a href="https://plus.google.com/share?url={{ post.url }}" title="Share on Google+"
+            <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+"
                onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
                 <i class="fa fa-2x fa-fw fa-google-plus-square" style="margin-left: -8px"></i> <span class="hidden">Google+</span>
             </a>
         </section>
 
         <footer class="post-footer">
-            {% if post.author %}
+            {% if page.author %}
                 {% include post-author.html %}
             {% endif %}
         </footer>
