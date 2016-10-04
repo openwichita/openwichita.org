@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<h2 class="home-lead">
+  Building a community means offering<br>your hands, not just your voice.
+</h2>
+
 # What is Open Wichita?
 
 **Our mission is to** foster a community of civic involvement through
