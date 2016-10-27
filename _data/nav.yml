@@ -3,4 +3,5 @@ main:
   - { url: '/about', label: 'About' }
   - { url: 'https://meetup.com/openwichita', label: 'Events' }
   - { url: '/connect', label: 'Connect' }
+  - { url: '/data', label: 'Data' }
   - { url: '/updates', label: 'Updates' }
