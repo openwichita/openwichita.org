@@ -52,7 +52,7 @@ finding openly available data related to the growth, history, productivity and
 demographics of St. Louis.
 
 **[WSU’s Center for Economic Development and Business Research
-(CEDBR)**](http://www.cedbr.org/index.php?option=com_content&view=article&id=719&Itemid=77)
+(CEDBR)](http://www.cedbr.org/index.php?option=com_content&view=article&id=719&Itemid=77)**
 -- Regional storehouse for local, state and national statistical and business
 databases on business and economics.
 
