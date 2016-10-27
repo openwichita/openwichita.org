@@ -12,7 +12,7 @@ assistance!
 ## Local
 
 **[City of Wichita Kansas Open Data
-Portal](http://portal.wichitagis.opendata.arcgis.com/datasets)** -- Search for,
+Portal](http://portalnew.wichitagis.opendata.arcgis.com/)** -- Search for,
 access and download a variety of data sets including many GIS data sets
 maintained by the City of Wichita's GIS division.
 
