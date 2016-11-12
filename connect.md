@@ -12,8 +12,6 @@ reminders](https://meetup.com/openwichita)!
 
 Most of our collaboration [happens on GitHub](https://github.com/openwichita).
 
-`@OpenWichita` `#hackforchange` `#Wichita` `#ICT`
-
 * [Help Wanted](https://github.com/openwichita/help-wanted)
 * [Project Ideas](https://github.com/openwichita/project-ideas)
 * [Meetup (Events)](http://www.meetup.com/openwichita/) - events
