@@ -11,10 +11,9 @@ assistance!
 
 ## Local
 
-**[City of Wichita Kansas Open Data
-Portal](http://portalnew.wichitagis.opendata.arcgis.com/)** -- Search for,
-access and download a variety of data sets including many GIS data sets
-maintained by the City of Wichita's GIS division.
+**[City of Wichita Kansas Open Data Portal](http://opendata.wichita.gov)**
+-- Search for, access and download a variety of data sets including many
+GIS data sets maintained by the City of Wichita's GIS division.
 
 **[County Health Rankings &
 Roadmaps](http://www.countyhealthrankings.org/app/kansas/2015/overview)** --
