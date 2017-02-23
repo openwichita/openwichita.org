@@ -3,9 +3,9 @@ layout: page
 title: Projects
 ---
 
-Below is a list of active projects. While all projects under our GitHub
-account are open for contribution, our current focus and the majority of
-activity by our volunteers is happening on these listed here.
+Check out these projects powered by the Open Wichita community. Take a look at
+our [help wanted page](https://github.com/openwichita/help-wanted) to find out
+how you can join in and make a difference in your city.
 
 ### Open Budget: Wichita
 
