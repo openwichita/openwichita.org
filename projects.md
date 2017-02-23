@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Below is a list of "active" projects. While all projects under our GitHub
+Below is a list of active projects. While all projects under our GitHub
 account are open for contribution, our current focus and the majority of
 activity by our volunteers is happening on these listed here.
 
