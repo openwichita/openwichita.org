@@ -37,12 +37,14 @@ Open Wichita needs all the help it can get from talents of all kinds! Designers,
 developers, marketers, individuals plugged into local politics, and anyone with
 a passion for transparent government and open data.
 
-[Stay connected on Twitter](http://twitter.com/openwichita), to hear about when
-things are happening.
+**To be involved, make sure you join us in
+[Slack](https://openwichita-slack.herokuapp.com).**
 
-If you have any questions, comments, concerns whatsoever, or if you just want to
-be involved in some form or fashion, feel free to email sethetter [at] gmail, or
-submit your ideas below.
+That's our main place to stay connected and organized. Every Wednesday evening
+at 8pm we have Virtual Hack Nights that take place in Slack!
+
+**Specific help requests are posted on our [Help
+Wanted](https://github.com/openwichita/help-wanted) repo.**
 
 ## Let's talk!
 
@@ -60,7 +62,4 @@ below to get your invite.
 * [What Is Open Data](http://opendatahandbook.org/en/what-is-open-data/)
 * [Code For America](http://www.codeforamerica.org/)
 * [National Day of Civic Hacking](http://hackforchange.org/)
-* [National Open Data Portal](http://www.data.gov/)
-* [More Civic Hacking Success Stories](https://www.codeforamerica.org/governments/principles/open-data/#success-stories)
-* [Open Data in Tulsa](https://www.cityoftulsa.org/our-city/open-tulsa/about-open-tulsa.aspx)
-* [Open Data in Houston](http://www.houstontx.gov/mayor/press/city-houston-launches-open-data-policy)
+* [Open Data Day](http://opendataday.org/)
