@@ -25,14 +25,3 @@ portal](https://opendata.wichita.gov).
 
 * Aggregate all publicly available civic meetings into one website.
 * Uses a number of scrapers for some events, plus manual entry.
-
-### Open Data @ UWP
-
-[Help Requests](https://github.com/openwichita/help-wanted/issues?q=is%3Aopen+is%3Aissue+label%3Auwp-open-data) //
-[Ohana API](https://github.com/openwichita/ohana-api) //
-[Ohana Web](https://github.com/openwichita/ohana-web-search) //
-[Ohana SMS](https://github.com/openwichita/ohana-sms)
-
-* Partnership with United Way of the Plains to explore open data practices.
-* Implementing Ohana API and Web, and converting data to HSDS standard.
-* Opportunities for exploratory projects utilizing new data API!
