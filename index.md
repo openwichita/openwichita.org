@@ -25,3 +25,5 @@ technology empowers anyone to create something that makes a major difference.
 Want to join the conversation? [Join us in Slack](https://openwichita-slack.herokuapp.com)!
 
 <script async defer src="https://openwichita-slack.herokuapp.com/slackin.js"></script>
+
+{% include newsletter.html %}

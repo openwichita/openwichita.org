@@ -19,3 +19,5 @@ Most of our collaboration [happens on GitHub](https://github.com/openwichita).
 * [GitHub](https://github.com/openwichita) - code & projects
 * [Twitter](https://twitter.com/openwichita)
 * [Facebook](https://www.facebook.com/openwichita) 
+
+{% include newsletter.html %}
