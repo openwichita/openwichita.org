@@ -16,7 +16,7 @@ assistance!
 GIS data sets maintained by the City of Wichita's GIS division.
 
 **[County Health Rankings &
-Roadmaps](http://www.countyhealthrankings.org/app/kansas/2015/overview)** --
+Roadmaps](http://www.countyhealthrankings.org/app/kansas/2017/overview)** --
 Find out how healthy a county is and explore factors that drive health. The
 County Health Rankings & Roadmaps (CHR&R) website is a program of the Robert
 Wood Johnson Foundation (RWJF) and is a collaboration between RWJF and the
