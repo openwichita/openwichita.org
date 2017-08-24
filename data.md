@@ -81,5 +81,5 @@ Initiatives](http://www.communityinitiatives.com/).
 _Note_: These resources have been provided for information only. Use of any data
 set is between the user and the data provider as covered by their terms of
 service. To have your data set added or removed, contact us at <a
-href="/web/20160224021449/http://openwichita.com/">OpenWichita.com</a>
+href="http://openwichita.com/">OpenWichita.com</a>
 (sethetter [at] gmail).</p>
