@@ -1,6 +1,6 @@
 ![](cover_image.jpg)
 
-Welcome to www.openwichita.com!
+Welcome to www.openwichita.org!
 
 Prerequisites
 -------------
@@ -14,10 +14,10 @@ Getting Started
 -------------
 
     # Clone the repo
-    git clone https://github.com/openwichita/openwichita.com
+    git clone https://github.com/openwichita/openwichita.org
 
     # Change directory
-    cd openwichita.com
+    cd openwichita.org
     
     #Install dependencies
     bundle install
