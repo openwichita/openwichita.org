@@ -43,7 +43,7 @@ It doesn't matter what your background or skill set is. All skills are needed.
 ### Interested? Let's get going!
 
 1. [RSVP for the event](http://www.meetup.com/openwichita/events/228402175/) so we have enough food and swag.
-1. [Discuss and submit ideas](https://ideas.openwichita.com) for teams to work on.
+1. [Discuss and submit ideas](https://ideas.openwichita.org) for teams to work on.
 1. [Join us in Slack](https://openwichita-slack.herokuapp.com) to chat and check out the projects.
 1. [Check out the website](http://hackathonict.com) to stay updated.
 1. Get to the event on June 4th and build great stuff!
