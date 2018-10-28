@@ -16,7 +16,7 @@ assistance!
 GIS data sets maintained by the City of Wichita's GIS division.
 
 **[County Health Rankings &
-Roadmaps](http://www.countyhealthrankings.org/app/kansas/2018/overview)** --
+Roadmaps](http://www.countyhealthrankings.org/app)** --
 Find out how healthy a county is and explore factors that drive health. The
 County Health Rankings & Roadmaps (CHR&R) website is a program of the Robert
 Wood Johnson Foundation (RWJF) and is a collaboration between RWJF and the
@@ -55,9 +55,6 @@ databases on business and economics.
 which includes data, tools and resources to conduct research, develop web and
 mobile applications, design data visualizations and more.
 
-**[The White House Open Gov Initiative](https://open.whitehouse.gov/)** --  A
-complete collection of White House data sets.
-
 **[Sunlight Foundation Data and APIs](http://sunlightfoundation.com/api/)** --
 Provide free data sets and APIs for state and national data.
 
@@ -74,6 +71,6 @@ Initiatives](http://www.communityinitiatives.com/).
 
 _Note_: These resources have been provided for information only. Use of any data
 set is between the user and the data provider as covered by their terms of
-service. To have your data set added or removed, contact us at <a
-href="/web/20160224021449/https://openwichita.org/">OpenWichita.org</a>
-(sethetter [at] gmail [dot] com).</p>
+service. To have your data set added or removed, visit [the GitHub
+repo](https://github.com/openwichita/openwichita.org/issues) and open an issue,
+or even better, open a pull request!
