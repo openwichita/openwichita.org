@@ -3,5 +3,5 @@ main:
   - { url: '/connect', label: 'Connect' }
   - { url: 'https://github.com/openwichita/docs', label: 'Docs' }
   - { url: 'https://meetup.com/openwichita', label: 'Events' }
-  - { url: 'https://help.openwichita.com', label: 'Projects' }
+  - { url: 'https://help.openwichita.org', label: 'Projects' }
   - { url: '/data', label: 'Data' }

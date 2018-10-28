@@ -6,7 +6,7 @@ title: Data
 Below is a curated list of publicly available civic data sets to work with. They
 are available in various formats and methods. If you would like any help in
 working with this data, feel free to [join us in
-Slack](https://openwichita-slack.herokuapp.com) and ask the community for
+Slack](http://devict-slackin.herokuapp.com) in the #OpenWichita channel and ask the community for
 assistance!
 
 ## Local
@@ -16,7 +16,7 @@ assistance!
 GIS data sets maintained by the City of Wichita's GIS division.
 
 **[County Health Rankings &
-Roadmaps](http://www.countyhealthrankings.org/app/kansas/2015/overview)** --
+Roadmaps](http://www.countyhealthrankings.org/app/kansas/2018/overview)** --
 Find out how healthy a county is and explore factors that drive health. The
 County Health Rankings & Roadmaps (CHR&R) website is a program of the Robert
 Wood Johnson Foundation (RWJF) and is a collaboration between RWJF and the
@@ -34,7 +34,7 @@ Sources](http://www.countyhealthrankings.org/using-the-rankings-data/finding-mor
 -- A portal to a number of other Kansas data sets on health, education and crime
 on the County Health Rankings & Roadmaps (CHR&R) website, which is a program of
 the Robert Wood Johnson Foundation (RWJF) and is a collaboration between RWJF
-and the University of Wisconsin Population Health Institute. 
+and the University of Wisconsin Population Health Institute.
 
 **[KansasOpenGov](http://www.kansasopengov.org/)** -- A free service provided by
 [Kansas Policy Institute](http://www.kansaspolicy.org/).  KPI is an independent
@@ -43,12 +43,6 @@ personal freedom for all Kansans.
 
 **[State of Missouri](https://data.mo.gov/)** -- The official State of Missouri
 data sets and views.
-
-**[St. Louis Data Wiki](http://opendatastl.org/wiki/Main_Page)** -- Wiki run by
-Open Data STL, a group of civic-minded data-savvy citizens of St. Louis and the
-surrounding metropolitan area that has come together to provide resources for
-finding openly available data related to the growth, history, productivity and
-demographics of St. Louis.
 
 **[WSU’s Center for Economic Development and Business Research
 (CEDBR)](http://www.cedbr.org/index.php?option=com_content&view=article&id=719&Itemid=77)**
@@ -74,12 +68,12 @@ and reporting capabilities to explore community health. Managed by the
 three-organization team: [Institute for People, Place and Possibility
 (IP3)](http://www.i-p3.org/), the [Center for Applied Research and Environmental
 Systems](http://www.cares.missouri.edu/), and [Community
-Initiatives](http://www.communityinitiatives.com/). 
+Initiatives](http://www.communityinitiatives.com/).
 
 ---
 
 _Note_: These resources have been provided for information only. Use of any data
 set is between the user and the data provider as covered by their terms of
 service. To have your data set added or removed, contact us at <a
-href="/web/20160224021449/http://openwichita.com/">OpenWichita.com</a>
-(sethetter [at] gmail).</p>
+href="/web/20160224021449/https://openwichita.org/">OpenWichita.org</a>
+(sethetter [at] gmail [dot] com).</p>
