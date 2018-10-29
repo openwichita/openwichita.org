@@ -48,4 +48,4 @@ Instead of spreading ourselves too thin on as many projects as possible, we'll b
 
 That pretty much concludes the organizational changes. I try to avoid writing posts that are too long, so I'm going to cut it off right there. All in all, I think these changes will put us more in line with having the community impact that we are set out for. We hope you do as well :)
 
-As always, if you have any questions, comments, or concerns, please get in touch! Slack is absolutely the best way to connect. If you haven't already joined, [do it now](http://openwichita-slackin.herokuapp.com)!
+As always, if you have any questions, comments, or concerns, please get in touch! Slack is absolutely the best way to connect. If you haven't already joined, [do it now](https://openwichita-slackin.herokuapp.com)!

@@ -12,4 +12,4 @@ Wichita Public Librarian and Open Wichita member Britten Kuckelman talks about h
 
 [See the application description here](https://www.newschallenge.org/challenge/how-might-libraries-serve-21st-century-information-needs/submissions/the-civic-hackerspace-library). Support the post by making an account, applauding our idea, and contribute to the conversation in the comments.
 
-As always, please join us on [Twitter](http://twitter.com/openwichita) to stay apprised of news and upcoming events. Please join the conversation!
+As always, please join us on [Twitter](https://twitter.com/openwichita) to stay apprised of news and upcoming events. Please join the conversation!

@@ -1,7 +1,6 @@
 main:
   - { url: '/', label: 'Home' }
-  - { url: '/connect', label: 'Connect' }
   - { url: 'https://github.com/openwichita/docs', label: 'Docs' }
   - { url: 'https://meetup.com/openwichita', label: 'Events' }
-  - { url: 'https://help.openwichita.org', label: 'Projects' }
+  - { url: 'https://github.com/openwichita', label: 'Projects' }
   - { url: '/data', label: 'Data' }

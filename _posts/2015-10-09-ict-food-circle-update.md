@@ -6,7 +6,7 @@ slug: ict-food-circle-update
 ---
 
 
-![](http://i.imgur.com/g09tAgm.png?1)
+![](https://i.imgur.com/g09tAgm.png?1)
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/2pBFUbOFdMk" frameborder="0" allowfullscreen></iframe>
 
@@ -18,7 +18,7 @@ ICT Food Circle founder Mikel Bowyer, a veteran of the foodservice industry, bec
 
 Interested in getting involved in ICT Food Circle? Here's what to do next... 
 
--Visit the [ICT Food Circle webpage.](http://www.ictfoodcircle.org)
+-Visit the [ICT Food Circle webpage.](https://www.ictfoodcircle.org)
 
 -Share your thoughts with ICT Food Circle on their [Facebook page](https://www.facebook.com/Ictfoodcircle?fref=ts).
 

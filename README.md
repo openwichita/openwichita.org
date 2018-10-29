@@ -7,8 +7,8 @@ Prerequisites
 
 - [Git](https://git-scm.com)
 - [Ruby](https://www.ruby-lang.org)
-- [Jekyll](http://jekyllrb.com)
-- [Bundler](http://bundler.io)
+- [Jekyll](https://jekyllrb.com)
+- [Bundler](https://bundler.io)
 
 Getting Started
 -------------

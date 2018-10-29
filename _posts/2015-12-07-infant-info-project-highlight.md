@@ -28,7 +28,7 @@ We here at Open Wichita are proud to introduce you to the Infant-Info initiative
 ****
 This project is a great example of how Open Wichita is *not* just a group for developers. Often, the most powerful ideas are realized when diverse members of the community couple their insight and expertise with our vast development resources. In other words, *we want to hear from you.*
 
-Are you also concerned with Wichita's high infant mortality rate? If so, [join the conversation on Slack ](https://openwichita-slack.herokuapp.com/), drop in to our [next Open Hack night](http://www.meetup.com/openwichita/), or [send us a Tweet](https://twitter.com/openwichita).  
+Are you also concerned with Wichita's high infant mortality rate? If so, [join the conversation on Slack ](https://openwichita-slack.herokuapp.com/), drop in to our [next Open Hack night](https://www.meetup.com/openwichita/), or [send us a Tweet](https://twitter.com/openwichita).  
 
  
 

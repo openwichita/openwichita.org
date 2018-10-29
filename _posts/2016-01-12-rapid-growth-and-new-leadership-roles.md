@@ -21,12 +21,12 @@ It's been very humbling. Numerous people from various walks of life came to our 
 
 Some of the things we have going on are:
 
-* [An initiative to lower infant mortality rates](http://openwichita.org/infant-info-project-highlight/)
-* [A way to connect Wichitans with local food sources](http://openwichita.org/wichita-eagle-features-ict-food-circle/)
-* [Improved digital tooling for local public transit](http://openwichita.org/busict-project-update/)
-* [A partnership with KMUW to increase voter education](http://openwichita.org/open-wichita-partners-with-kmuw-89-1-on-voter-turnout/)
-* [Pursuit of an Open Data policy for the city of Wichita](http://www.kansas.com/news/politics-government/article47093260.html)
-* [A collaboration with Riverfest for a large scale civic hackathon](http://openwichita.org/open-wichita-in-the-news/)
+* [An initiative to lower infant mortality rates](https://openwichita.org/infant-info-project-highlight/)
+* [A way to connect Wichitans with local food sources](https://openwichita.org/wichita-eagle-features-ict-food-circle/)
+* [Improved digital tooling for local public transit](https://openwichita.org/busict-project-update/)
+* [A partnership with KMUW to increase voter education](https://openwichita.org/open-wichita-partners-with-kmuw-89-1-on-voter-turnout/)
+* [Pursuit of an Open Data policy for the city of Wichita](https://www.kansas.com/news/politics-government/article47093260.html)
+* [A collaboration with Riverfest for a large scale civic hackathon](https://openwichita.org/open-wichita-in-the-news/)
 
 ..and that's not everything. Clearly, the last 6 months have been busy!
 
@@ -52,4 +52,4 @@ These individuals have all been chosen because they were each already acting in 
 
 With the Open Data policy in progress, the Riverfest Hackathon on the horizon, and multiple projects being worked on, Open Wichita is on the tipping point of making a huge impact on this city.
 
-Now is the time to get involved! [Join the group on meetup](http://meetup.com/openwichita) and come out to one of our hack nights to see what we're all about. You can also check out [several other ways of connecting](http://openwichita.org/talk). There's no time like the present!
+Now is the time to get involved! [Join the group on meetup](https://meetup.com/openwichita) and come out to one of our hack nights to see what we're all about. You can also check out [several other ways of connecting](https://openwichita.org/talk). There's no time like the present!

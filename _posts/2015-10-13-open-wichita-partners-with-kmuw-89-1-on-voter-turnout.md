@@ -38,5 +38,5 @@ I caught up with KMUW General Manager Debra Fraser and Open Wichita founder Seth
 **DF:** This subject is important to KMUW because we're committed to "making Wichita even better" and it's widely agreed that greater voter turn-out would be good for Wichita.
 
 ***
-Want to get involved in this important project? We need your help. [Join us on Slack ](https://docs.google.com/forms/d/1hJQ8ogLkNuw9EI7m-yS6vPa-YhnKRB6jmdCPFXn51tU/viewform), [send us a Tweet](http://twitter.com/openwichita), and [engage with us on Facebook](https://www.facebook.com/openwichita?fref=ts). Our next open hack night is Thursday, November 12th at the Labor Party—[be sure to RSVP via our Meetup Group! ](http://www.meetup.com/openwichita/events/225968837/)
+Want to get involved in this important project? We need your help. [Join us on Slack ](https://docs.google.com/forms/d/1hJQ8ogLkNuw9EI7m-yS6vPa-YhnKRB6jmdCPFXn51tU/viewform), [send us a Tweet](https://twitter.com/openwichita), and [engage with us on Facebook](https://www.facebook.com/openwichita?fref=ts). Our next open hack night is Thursday, November 12th at the Labor Party—[be sure to RSVP via our Meetup Group! ](https://www.meetup.com/openwichita/events/225968837/)
 
