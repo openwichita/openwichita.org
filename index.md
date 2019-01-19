@@ -6,23 +6,10 @@ layout: page
   Building a community means offering<br>your hands, not just your voice.
 </h2>
 
-# What is Open Wichita
+**Open Wichita is no longer active!** We've had a great run, started and launched some cool projects, built meaningful relationships with the city and other community partners, and had many powerful and informative conversations at our events. We've done our best to educate and provide a platform for a new kind of civic engagement in Wichita, but volunteer organizations are a tough thing to run, so until further notice, Open Wichita is closing up shop.
 
-**Our mission is to** provide a connecting point for those interested in the
-cross-section of technology and local civic involvement. We are Wichita’s <a href="https://codeforamerica.org/">Code
-For America</a> brigade and a program of
-<a href="https://devict.org/">devICT</a>.
+**Our current efforts (GitHub projects, Slack discussions, and any in person events) will be absorbed by our parent organization, [devICT](https://devict.org).** There will continue to be a place to talk about the intersection of technology and civic engagement in the [#civic-tech](https://devict.slack.com/messages/C4KJ8FL4A/) channel of the [devICT Slack community](https://devict.org/slack), and you can be sure to see more events in the same vein. If you care about these things, be sure to join devICT and get involved in the discussion!
 
-We are a community of individuals who want to help citizens and government solve
-problems with data and code, and empower others with the necessary skills to do
-the same.
+Thanks to everyone who's been a part of this journey! Perhaps in the future, a new civic tech community organization can exist. For now, the focus lives on in [devICT](https://devict.org).
 
-We believe that technology is a powerful force that can fundamentally change the
-way we participate in city living. We also believe that the accessibility of
-technology empowers anyone to create something that makes a major difference.
-
-**To get involved**, connect with us on the <a href="https://openwichita.org/devict.org/slack">devICT Slack
-group</a> (channel:
-<a href="https://devict.slack.com/messages/C4KJ8FL4A/">#openwichita</a>),
-<a href="https://github.com/openwichita">GitHub</a>, and
-<a href="https://twitter.com/openwichita">Twitter</a>.
+— Seth Etter
